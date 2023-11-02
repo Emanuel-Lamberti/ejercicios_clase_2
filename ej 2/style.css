@@ -1,0 +1,30 @@
+body {
+    margin-left: 3rem;
+}
+
+h1 {
+    margin-left: 3rem;
+}
+
+input, button {
+    margin: 5px;
+}
+
+button {
+    border-radius: 5px;
+    height: 25px;
+}
+
+input {
+    border-radius: 5px;
+    height: 25px;
+    width: 80px;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+p {
+    font-size: 30px;
+    margin-left: 50px;
+    font-weight: bold;
+}
